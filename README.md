@@ -1,5 +1,11 @@
 # tugas_mobile_1
 
+NIM   : 2309106091
+NAMA  : RAHMAD YUSUF SAPUTRA
+
+<img width="608" height="882" alt="image" src="https://github.com/user-attachments/assets/e2d12361-70b7-471e-8ecb-3fe28428bf91" />
+
+
 A new Flutter project.
 
 ## Getting Started
